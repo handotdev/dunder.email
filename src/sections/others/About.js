@@ -36,10 +36,10 @@ const About = ({ hero = true, bg = 'dark', ...rest }) => {
                   line-height: 1.5;
                 `}
               >
-                Disclaimer All character names and references to “The Office”
-                are the sole property of NBCUniversal Television. This is
-                entirely a fan-created site, that is not intended for commercial
-                use or to violate copyright.
+                All character names and references to “The Office” are the sole
+                property of NBCUniversal Television. This is entirely a
+                fan-created site, that is not intended for commercial use or to
+                violate copyright.
               </Text>
               <div className="mt-4">
                 <Text color="light">For questions email</Text>

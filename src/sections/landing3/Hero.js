@@ -40,12 +40,12 @@ const Hero = () => {
             <Col lg="4" sm="12">
               <Box pl="1.25rem">
                 <a
-                  href="https://www.producthunt.com/posts/postmodern-1?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-postmodern-1"
+                  href="https://www.producthunt.com/posts/dunder-email?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dunder-email"
                   target="_blank"
                 >
                   <img
-                    src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=293789&theme=light"
-                    alt="Postmodern. - Anonymous, short, ephemeral conversations with others | Product Hunt"
+                    src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=294439&theme=light"
+                    alt="Dunder Email - AI-powered customer support for Dunder Mifflin | Product Hunt"
                     style={{ width: '250px', height: '54px' }}
                     width="250"
                     height="54"
