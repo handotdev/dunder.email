@@ -54,6 +54,14 @@ const Hero = () => {
               </Box>
             </Col>
           </Row>
+          <Box mt="4">
+            <iframe
+              src="https://dunder.email"
+              title="Demo Email Composer"
+              style={{ width: '100%', height: '600px' }}
+              frameborder="0"
+            ></iframe>
+          </Box>
         </Container>
       </SectionStyled>
     </>
