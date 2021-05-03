@@ -40,11 +40,11 @@ const Hero = () => {
             <Col lg="4" sm="12">
               <Box pl="1.25rem">
                 <a
-                  href="https://www.producthunt.com/posts/dunder-email?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-dunder-email"
+                  href="https://www.producthunt.com/posts/dunder-email?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-dunder-email"
                   target="_blank"
                 >
                   <img
-                    src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=294439&theme=light"
+                    src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=294439&theme=light&period=daily"
                     alt="Dunder Email - AI-powered customer support for Dunder Mifflin | Product Hunt"
                     style={{ width: '250px', height: '54px' }}
                     width="250"
