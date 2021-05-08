@@ -56,7 +56,7 @@ const Hero = () => {
           </Row>
           <Box mt="4">
             <iframe
-              src="https://keen-gates-816eb6.netlify.app/"
+              src="https://epic-euler-5724f5.netlify.app"
               title="Demo Email Composer"
               style={{ width: '100%', height: '600px' }}
               frameborder="0"
